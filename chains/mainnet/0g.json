@@ -1,0 +1,19 @@
+{
+    "chain_name": "0g-chain testnet",
+    "api": ["https://lightnode-api-0g.grandvalleys.com"],
+    "rpc": ["http://lightnode-rpc-0g.grandvalleys.com:26657"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "0g",
+    "logo": "https://imgur.com/cgdmv8K.jpg",
+    "assets": [{
+        "base": "ua0gi",
+        "symbol": "A0GI",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://imgur.com/cgdmv8K.jpg"
+    }]
+  }

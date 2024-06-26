@@ -23,14 +23,14 @@
     "links": "Links"
   },
   "pages": {
-    "title": "Ping Dashboard",
+    "title": "Valley Dashboard",
     "title_all": "404",
     "tag": "Beta",
     "tag_all": "Page Not Found",
-    "slogan": "Ping Dashboard is not just an explorer but also a wallet and more ... 🛠",
-    "description": "Cosmos Ecosystem Blockchains 🚀",
-    "search_placeholder": "Search Chain",
-    "description_all": "We couldn't find the page you are looking for.",
+    "slogan": "Let's Buidl Together",
+    "description": "Valley Dashboard provide your needs in the cosmos ecosystem blockchain. ",
+    "search_placeholder": "search the valley",
+    "description_all": "you're lost in the valley",
     "out_of_sync": "The latest block was produced at ",
     "btn_index": "Back to Home"
   },
